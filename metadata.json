@@ -1,0 +1,6 @@
+{
+  "name": "AgroLink Cameroun",
+  "description": "Marketplace agricole au Cameroun mettant directement en relation producteurs et acheteurs pour réduire les pertes post-récolte. Du champ au marché, sans perte.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
